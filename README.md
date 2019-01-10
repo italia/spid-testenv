@@ -1,3 +1,5 @@
+> ⚠️ Questo repository è **deprecato**. È ora disponibile il nuovo IdP di test: https://github.com/italia/spid-testenv2
+
 # SPID Test Environment
 
 SPID Test Environment è rivolto ai Service Provider che vogliono testare la propria integrazione con SPID senza avere a disposizione identità SPID reali.
